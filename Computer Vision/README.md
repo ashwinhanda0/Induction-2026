@@ -34,4 +34,6 @@ The center of the board is red. The approach is:
 4. Fit an ellipse  
 
 ---
+![Archery](Archery.mp4)
+---
 
